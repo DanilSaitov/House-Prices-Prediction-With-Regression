@@ -1,1 +1,3 @@
 # House-Prices-Prediction-With-Regression
+
+This project explores how different regression models can be used to predict house prices using the Ames Housing dataset from Kaggle. It walks through understanding the data, cleaning and preparing it, and building several regression models, starting with a simple Linear Regression baseline, then improving it with Ridge Regression, and finally testing a Random Forest Regressor. Each step includes analysis of what worked, what did not, and how the results changed. The project ends with reflections on the impact of predictive modeling in real estate and what was learned through the process.
